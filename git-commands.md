@@ -1,5 +1,6 @@
 
-merge branch
+### merge branch
+```
 $ git checkout master
-$ git merge hotfix
-
+$ git merge branch-name
+```
