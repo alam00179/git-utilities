@@ -1,6 +1,10 @@
 
-### merge branch
+#### merge branch
 ```
-$ git checkout master
-$ git merge branch-name
+git checkout master
+git merge branch-name
+```
+#### merge abort
+```
+git merge --abort
 ```
